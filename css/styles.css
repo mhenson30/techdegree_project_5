@@ -5,6 +5,10 @@
 
 }
 
+ul{
+  list-style-type: none;
+}
+
 .gallery{
   display: flex;
   flex-wrap: wrap;
@@ -17,10 +21,6 @@
 .search{
   margin-bottom: 30px;
   align-self: center;
-}
-
-.caption{
-  display: none;
 }
 
 input[type="text"]{
