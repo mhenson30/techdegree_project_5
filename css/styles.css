@@ -1,5 +1,5 @@
 .container{
-  margin-top: 30px;
+  padding-top: 30px;
   display: flex;
   flex-direction: column;
 
@@ -15,7 +15,7 @@ ul{
 }
 
 .photo{
-  margin: 30px;
+  margin: 20px;
 }
 
 .search{
