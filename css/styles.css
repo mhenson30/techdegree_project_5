@@ -7,6 +7,10 @@
 
 }
 
+.main {
+  max-width: 1260px;
+}
+
 ul{
   list-style-type: none;
 }
